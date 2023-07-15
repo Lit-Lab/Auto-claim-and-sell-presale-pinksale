@@ -47,4 +47,5 @@ there are two option :
   - bot will beeping if its job are done, and write log activity and txn hash used at bot terminal panel for temporary (you can copy it and paste to somewhere to save it).
 
 ## extra
+join our channnel to keep updated about our bot
 - telegram : https://t.me/LitLab_bot
