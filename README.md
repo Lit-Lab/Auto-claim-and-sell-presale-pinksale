@@ -2,6 +2,7 @@
 this bot is serverless and only working locally at your device, so this bot cannot collect any data from your device.
 its make that way to make sure user data is safe and only the user who can access their data.
 this bot using 1% tax per success transaction (you can join our group for more information).
+![screenshoot1](https://github.com/Lit-Lab/Auto-claim-and-sell-presale-pinksale/assets/139533775/13307d85-8b2e-487c-92bd-b6c29f494ae4)
 
 ## notes :
 - for now this bot only supported :
