@@ -1,18 +1,18 @@
 # auto claim and sell presale
-this bot is serverless and only working locally at your device, so this bot cannot collect any data from your device.
-its make that way to make sure user data is safe and only the user who can access their data.
-this bot using 1% tax per success transaction (you can join our group for more information).
+- this bot is serverless and only working locally at your device, so this bot cannot collect any data from your device.
+- its make that way to make sure user data is safe and only the user who can access their data.
+- this bot using 1% tax per success transaction (you can join our group for more information).
 ![screenshoot1](https://github.com/Lit-Lab/Auto-claim-and-sell-presale-pinksale/assets/139533775/13307d85-8b2e-487c-92bd-b6c29f494ae4)
 
 ## notes :
 - for now this bot only supported :
   - chain :
-    - BSC chain
+    - BSC chain :ballot_box_with_check:
     - more will be updated at future.
   - launchpad :
-    - pinksale
+    - pinksale :ballot_box_with_check:
     - more will be updated at future.
-  - contract address with enabletrade is supported
+  - contract address with enabletrade is supported :ballot_box_with_check:
 
 ## feature : 
 - auto claiming your contribution at presale launchpad
@@ -44,7 +44,7 @@ there are two option :
   2. sell with target price
      enter how much % profit you want to trugger auto sell after token launched. example : you contribute 1bnb at presale and want to sell at price 1.2bnb so you enter "20" for 20% profit limit.
 - after that this bot will start to fetching your contribution at presale > waiting presale to finalized > claiming your presale contribution > selling presale token
-  bot will beeping if its job are done, and write log activity and txn hash used at bot terminal panel for temporary (you can copy it and paste to somewhere to save it).
+  - bot will beeping if its job are done, and write log activity and txn hash used at bot terminal panel for temporary (you can copy it and paste to somewhere to save it).
 
 ## extra
 - telegram : https://t.me/LitLab_bot
